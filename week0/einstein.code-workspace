@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+vigilant-telegram-97gq5jgw4w4p3x9vx/workspaces/236082759"
+		}
+	],
+	"remoteAuthority": "codespaces+vigilant-telegram-97gq5jgw4w4p3x9vx",
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
